@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Amiga-Conn)(type Legacy)(uri /Users/justin/GITHUB/Amiga-KiCad-Library/LibraryFiles/amiga-conn.lib)(options "")(descr ""))
+  (lib (name Samac)(type Legacy)(uri /Users/justin/GITHUB/KiCad/SamacSys_Parts.lib)(options "")(descr ""))
+)
